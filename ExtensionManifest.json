@@ -1,0 +1,10 @@
+{
+  "type": 1,
+  "name": "Simple blue",
+  "author": "MidoMatrix",
+  "repository": "",
+  "packageId": "MidoMatrix.Simpleblue",
+  "version": "1.1.1",
+  "target-plugin-api-version": 32,
+  "dll": ""
+}
